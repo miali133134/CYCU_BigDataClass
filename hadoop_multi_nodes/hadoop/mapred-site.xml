@@ -19,7 +19,7 @@
 <configuration>
  <property>
   <name>mapred.job.tracker</name>
-  <value>master:54311</value>
+  <value>mia:54311</value>
  </property>
  <property> 
   <name>mapreduce.framework.name</name> 
