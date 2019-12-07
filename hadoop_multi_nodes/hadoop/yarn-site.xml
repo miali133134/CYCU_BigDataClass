@@ -27,7 +27,7 @@
  
  <property>
    <name>yarn.resourcemanager.hostname</name>
-   <value>mia</value>
+   <value>master</value>
  </property>
 
       <!--
